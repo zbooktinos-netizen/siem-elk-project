@@ -54,6 +54,6 @@ Ce projet s’inscrit dans une démarche d’apprentissage et de mise en pratiqu
 ---
 
 ##  Auteur
-LAWSON
+
 
 lawson
